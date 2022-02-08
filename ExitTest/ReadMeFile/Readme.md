@@ -67,8 +67,8 @@
 
 
 ####Integrate test suite:-
-- **Github Url** :-
-- **Jenkins Url** :-
+- **Github Repo ** :- https://github.com/qaiffeeazim143/SeleniumTest.git
+- **Jenkins ** :-
 
 
 
