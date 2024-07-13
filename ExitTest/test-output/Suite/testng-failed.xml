@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Login"/>
+        <include name="Search"/>
+        <include name="App"/>
+        <include name="Sell"/>
+        <include name="Care"/>
+        <include name="Offer"/>
+        <include name="fee"/>
+        <include name="Compare"/>
+        <include name="Reward"/>
+        <include name="travel"/>
+        <include name="Cart"/>
+        <include name="Order"/>
+        <include name="Service"/>
+        <include name="faq"/>
+        <include name="Shop"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.Assignment.tests.ShopsyTest">
+        <methods>
+          <include name="invalidShopsy"/>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+          <include name="attachScreenshot"/>
+          <include name="closeBrowser"/>
+          <include name="openUrl"/>
+          <include name="initializeWebdriver"/>
+        </methods>
+      </class> <!-- com.Assignment.tests.ShopsyTest -->
+      <class name="com.Assignment.tests.LoginTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="inValidLogin"/>
+          <include name="setExtent"/>
+          <include name="attachScreenshot"/>
+          <include name="closeBrowser"/>
+          <include name="openUrl"/>
+          <include name="initializeWebdriver"/>
+        </methods>
+      </class> <!-- com.Assignment.tests.LoginTest -->
+      <class name="com.Assignment.tests.SellOnTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+          <include name="attachScreenshot"/>
+          <include name="closeBrowser"/>
+          <include name="openUrl"/>
+          <include name="InvalidsellOnFlip"/>
+          <include name="initializeWebdriver"/>
+        </methods>
+      </class> <!-- com.Assignment.tests.SellOnTest -->
+      <class name="com.Assignment.tests.ServicesTest">
+        <methods>
+          <include name="invalidService"/>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+          <include name="attachScreenshot"/>
+          <include name="closeBrowser"/>
+          <include name="openUrl"/>
+          <include name="initializeWebdriver"/>
+        </methods>
+      </class> <!-- com.Assignment.tests.ServicesTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

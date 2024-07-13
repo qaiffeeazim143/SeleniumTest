@@ -1,0 +1,157 @@
+[INFO ] 2022-01-30 17:51:16.949 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-01-30 18:02:17.965 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-01-30 18:07:44.391 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-01-30 18:08:19.570 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-01-30 18:14:43.257 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-01-30 18:21:53.646 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-01-30 18:22:01.030 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-01-30 18:22:08.466 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-01-30 18:22:15.435 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-01-30 18:22:21.979 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-01-30 18:22:32.322 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-01-30 18:22:44.078 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-01-30 18:22:57.348 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-01-30 18:23:05.376 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-01-30 18:23:17.092 [main] Log4j - Fee Structure Page Test Case Passed
+[INFO ] 2022-01-30 18:23:38.282 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-01-30 18:23:44.328 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-01-30 18:25:00.311 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-01-30 18:25:11.128 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-01-30 18:25:26.568 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-01-30 18:25:37.682 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-01-30 18:25:49.492 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-01-31 10:18:07.509 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-01-31 10:18:20.164 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-01-31 10:18:28.159 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-01-31 10:18:32.028 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-01-31 10:18:35.818 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-01-31 10:18:45.029 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-01-31 10:18:56.553 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-01-31 10:19:05.162 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-01-31 10:19:14.145 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-01-31 10:19:24.476 [main] Log4j - Fee Structure Page Test Case Passed
+[INFO ] 2022-01-31 10:19:46.696 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-01-31 10:19:51.742 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-01-31 10:20:29.913 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-01-31 10:20:41.169 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-01-31 10:20:50.798 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-01-31 10:21:00.757 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-01-31 10:21:11.124 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-01-31 10:21:57.477 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-01-31 10:23:40.832 [main] Log4j - Order Page Test Case Passed
+[INFO ] 2022-01-31 10:24:10.302 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-01-31 10:24:15.824 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-01-31 10:25:27.702 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-01-31 10:25:35.804 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-01-31 10:25:44.491 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-01-31 10:25:48.439 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-01-31 10:25:56.545 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-01-31 10:26:02.360 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-01-31 10:26:13.250 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-01-31 10:26:22.335 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-01-31 10:26:32.421 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-01-31 10:26:43.664 [main] Log4j - Fee Structure Page Test Case Passed
+[INFO ] 2022-01-31 10:27:05.565 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-01-31 10:27:09.444 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-01-31 10:27:23.332 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-01-31 10:27:33.497 [main] Log4j - Order Page Test Case Passed
+[INFO ] 2022-01-31 10:27:45.551 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-01-31 10:27:57.136 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-01-31 10:28:05.168 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-01-31 10:28:18.110 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-01-31 10:28:31.320 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-02-01 21:51:14.851 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-01 21:51:21.642 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-01 21:51:28.041 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-02-01 21:51:33.741 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-02-01 21:51:39.630 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-02-01 21:51:51.349 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-02-01 21:52:08.442 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-02-01 21:52:15.312 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-02-01 21:52:21.896 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-02-01 21:52:32.046 [main] Log4j - Fee Structure Page Test Case Passed
+[INFO ] 2022-02-01 21:52:50.763 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-02-01 21:52:56.870 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-02-01 21:53:34.296 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-02-01 21:53:44.403 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-02-01 21:53:55.647 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-02-01 21:54:05.722 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-02-01 21:54:15.739 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-02-02 19:50:38.208 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 19:51:37.199 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 19:52:46.482 [main] Log4j - Order Page Test Case Passed
+[INFO ] 2022-02-02 19:54:03.979 [main] Log4j - Compare Page Test Case Passed
+[INFO ] 2022-02-02 19:56:16.039 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 19:59:16.358 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 20:02:03.537 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 20:06:25.646 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 20:21:21.288 [main] Log4j - Compare Page Test Case Passed
+[INFO ] 2022-02-02 20:22:02.665 [main] Log4j - Compare Page Test Case Passed
+[INFO ] 2022-02-02 20:27:24.951 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-02 20:27:31.136 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-02 20:31:40.806 [main] Log4j - Order Page Test Case Passed
+[INFO ] 2022-02-02 20:32:55.045 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-02 20:34:24.135 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-02-02 20:34:30.800 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-02-02 20:36:21.859 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-02 20:36:29.336 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-02 20:36:35.967 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-02-02 20:36:42.289 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-02-02 20:36:48.200 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-02-02 20:36:59.345 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-02-02 20:37:15.264 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-02-02 20:37:26.653 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-02-02 20:37:33.452 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-02-02 20:37:44.774 [main] Log4j - Fee Structure Page Test Case Passed
+[INFO ] 2022-02-02 20:37:58.968 [main] Log4j - Compare Page Test Case Passed
+[INFO ] 2022-02-02 20:38:08.867 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-02-02 20:38:15.176 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-02-02 20:39:06.435 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-02-02 20:39:22.637 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-02-02 20:39:49.003 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-02-02 20:40:07.009 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-02-07 11:54:09.386 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-02-07 11:54:40.390 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-07 11:54:47.785 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-07 11:54:55.346 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-02-07 11:55:01.062 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-02-07 11:55:07.243 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-02-07 11:55:20.827 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-02-07 11:55:31.036 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-02-07 11:55:39.229 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-02-07 11:55:46.514 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-02-07 11:56:24.319 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-02-07 11:56:30.593 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-02-07 11:57:10.682 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-02-07 11:57:23.696 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-02-07 11:57:34.466 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-02-07 11:57:45.079 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-02-07 11:57:58.511 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-02-07 12:03:42.787 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-07 12:06:18.789 [main] Log4j - Order Page Test Case Passed
+[INFO ] 2022-02-07 12:07:03.733 [main] Log4j - Compare Page Test Case Passed
+[INFO ] 2022-02-07 12:07:29.132 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-07 12:07:37.577 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-07 12:07:44.842 [main] Log4j - Invalid Search Page Test Case Passed
+[INFO ] 2022-02-07 12:07:50.492 [main] Log4j - Valid Search Page Test Case Passed
+[INFO ] 2022-02-07 12:07:57.599 [main] Log4j - Download App Page Test Case Passed
+[ERROR] 2022-02-07 12:08:16.374 [main] Log4j - AssertionError: expected [Online on Flipkart | Grow your business with the leader in Indian e-commerce] but found [Sell Online on Flipkart | Grow your business with the leader in Indian e-commerce]
+[INFO ] 2022-02-07 12:08:29.053 [main] Log4j - Sell On Page Test Case Passed
+[INFO ] 2022-02-07 12:08:36.048 [main] Log4j - Customer Care Page Test Case Passed
+[INFO ] 2022-02-07 12:08:42.752 [main] Log4j - Offer Zone Page Test Case Passed
+[INFO ] 2022-02-07 12:08:53.244 [main] Log4j - Fee Structure Page Test Case Passed
+[INFO ] 2022-02-07 12:09:05.040 [main] Log4j - Compare Page Test Case Passed
+[INFO ] 2022-02-07 12:09:13.603 [main] Log4j - Reward Store Page Test Case Passed
+[INFO ] 2022-02-07 12:09:19.309 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-02-07 12:09:33.964 [main] Log4j - Cart Page Test Case Passed
+[INFO ] 2022-02-07 12:10:01.224 [main] Log4j - Service Page Test Case Passed
+[ERROR] 2022-02-07 12:10:12.753 [main] Log4j - AssertionError: expected [Everything you need to know about selling on Flipkart?] but found [Services | Everything you need to know about selling on Flipkart?]
+[INFO ] 2022-02-07 12:10:27.934 [main] Log4j - FAQ Page Test Case Passed
+[INFO ] 2022-02-07 12:10:40.503 [main] Log4j - Shopsy Page Test Case Passed
+[ERROR] 2022-02-07 12:10:54.170 [main] Log4j - AssertionError: expected [Flipkart top sellers] but found [ShopsyPage | Flipkart top sellers]
+[INFO ] 2022-02-07 17:35:33.286 [main] Log4j - Travel Page Test Case Passed
+[INFO ] 2022-02-07 17:36:20.448 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-07 17:36:26.077 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-07 17:53:35.888 [main] Log4j - Valid Login Page Test Case Passed
+[ERROR] 2022-02-07 17:53:41.769 [main] Log4j - AssertionError: expected [Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!] but found [Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!]
+[INFO ] 2022-02-07 18:03:32.407 [main] Log4j - FAQ Page Test Case Passed

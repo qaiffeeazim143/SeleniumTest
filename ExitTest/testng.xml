@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+ <groups>
+  <run>
+      
+      <include name = "Login"/>
+      <include name = "Search"/>
+      <include name = "App"/>
+      <include name = "Sell"/>
+      <include name = "Care"/>
+      <include name = "Offer"/>
+      <include name = "fee"/>
+      <include name = "Compare"/>
+      <include name = "Reward"/>
+      <include name = "travel"/>
+      <include name = "Cart"/>
+      <include name = "Order"/>
+      <include name = "Service"/>
+      <include name = "faq"/>
+      <include name = "Shop"/>
+      
+     
+  </run>     
+  </groups>
+  <classes>
+  <class name="com.Assignment.tests.LoginTest"/>
+  <class name="com.Assignment.tests.SearchTest"/>
+  <class name="com.Assignment.tests.DownloadAppTest"/>
+  <class name="com.Assignment.tests.SellOnTest"/> 
+  <class name="com.Assignment.tests.CustomerTest"/>  
+  <class name="com.Assignment.tests.offerZoneTest"/>   
+  <class name="com.Assignment.tests.FeeStructureTest"/>  
+  <class name="com.Assignment.tests.CompareTest"/> 
+  <class name="com.Assignment.tests.RewardStoreTest"/>
+  <class name="com.Assignment.tests.TravelTest"/> 
+  <class name="com.Assignment.tests.CartTest"/> 
+  <class name="com.Assignment.tests.PlacedOrderTest"/> 
+  <class name="com.Assignment.tests.ServicesTest"/> 
+  <class name="com.Assignment.tests.FaqTest"/> 
+  <class name="com.Assignment.tests.ShopsyTest"/>   
+  
+     
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
