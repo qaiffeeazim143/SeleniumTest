@@ -68,7 +68,6 @@
 
 ####Integrate test suite:-
 - **Github Repo ** :- https://github.com/qaiffeeazim143/SeleniumTest.git
-- **Jenkins ** :- https://nagarro-my.sharepoint.com/:w:/p/qaiffee_azim/ETcveupdXVFMstYEWKpGrvEB5dExbuaGSYcGt-YX9tNvmg?e=gk6BQe
 
 
 
